@@ -7,9 +7,9 @@ This repository is intentionally **description-only** and does not include sourc
 - Improved region alignment for downstream routing/classification
 
 ## Benchmark Snapshot
-- Intent match: `100%`
+- Intent match: `99.6%`
 - Vision-match rule pass: `91.7%` (11/12)
-- No-hallucination rule pass: `100%`
+- No-hallucination rule pass: `99.6%`
 
 ## Note
 Source files are intentionally excluded for this repository.
